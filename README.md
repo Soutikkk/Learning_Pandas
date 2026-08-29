@@ -155,19 +155,6 @@ Practiced modifying column values, including converting text to:
 
 ---
 
-## 🧪 Learning Approach
-
-The repository follows a **step-by-step learning approach**.
-
-Each Python file focuses on a specific Pandas concept, making it easier to:
-
-1. Understand one concept at a time
-2. Run the example
-3. Experiment with the code
-4. Modify it
-5. Observe the output
-6. Move on to the next concept
-
 The `Learning_Pandas.ipynb` notebook provides an interactive environment for experimenting with the concepts learned.
 
 ---
@@ -185,13 +172,13 @@ The `Learning_Pandas.ipynb` notebook provides an interactive environment for exp
 
 ## 🚀 Getting Started
 
-### 1. Clone the repository
+### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/Soutikkk/Learning_Pandas.git
 ```
 
-### 2. Navigate to the project
+### 2. Navigate to the Project
 
 ```bash
 cd Learning_Pandas
@@ -203,7 +190,7 @@ cd Learning_Pandas
 pip install pandas
 ```
 
-### 4. Run a program
+### 4. Run a Program
 
 For example:
 
@@ -217,7 +204,7 @@ You can also open:
 Learning_Pandas.ipynb
 ```
 
-using Jupyter Notebook or JupyterLab.
+using **Jupyter Notebook** or **JupyterLab**.
 
 ---
 
@@ -237,19 +224,6 @@ The dataset makes it easier to understand data manipulation using familiar attri
 The CSV and JSON files are used to practice loading and working with structured data.
 
 ---
-
-## 🎯 Learning Goals
-
-Through this project, I aim to build a strong foundation in:
-
-* Data manipulation
-* Data cleaning
-* Exploratory data analysis
-* Working with structured datasets
-* Python data analysis libraries
-* Preparing data for Machine Learning
-
-This repository will also serve as a reference for future **Data Science and Machine Learning projects**.
 
 ---
 
@@ -273,7 +247,7 @@ This repository will also serve as a reference for future **Data Science and Mac
 
 ## 🙏 Credits & Learning Resource
 
-A major reference for learning the concepts in this repository was the **Bro Code** Pandas tutorial on YouTube.
+A major reference for learning the concepts in this repository was the **[Bro Code](https://youtu.be/VXtjG_GzO7Q) Pandas tutorial on YouTube**.
 
 **Creator:** Bro Code
 **Platform:** YouTube
@@ -297,4 +271,4 @@ Learning Python → Pandas → Data Analysis → Machine Learning 🚀
 
 If you find this repository useful for learning Pandas, feel free to **⭐ star the repository** and explore the programs.
 
-Happy Learning! 🐼📊🐍
+**Happy Learning! 🐼📊🐍**
